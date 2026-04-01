@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+torchvision
+Pillow
+pytesseract
+huggingface_hub
