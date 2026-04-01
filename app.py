@@ -3,7 +3,10 @@ from PIL import Image
 import torch
 from transformers import LayoutLMv3Processor, LayoutLMv3ForTokenClassification
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = '/opt/homebrew/bin/tesseract'
+import shutil
+tesseract_path = shutil.which("tesseract")
+if tesseract_path:
+    pytesseract.pytesseract.tesseract_cmd = tesseract_path
 import json
 import re
 
