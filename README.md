@@ -190,13 +190,13 @@ required.
 
 Tested via the live Streamlit app on a real US product image:
 
-![App Upload](assets/1.png)
+![App Upload](assets/assets/1.png)
 
-![Health Assessment](assets/2.png)
+![Health Assessment](assets/assets/2_.jpeg)
 
-![Nutrient Breakdown](assets/3.png)
+![Nutrient Breakdown](assets/assets/3.png)
 
-![Extracted Values](assets/4.png)
+![Extracted Values](assets/assets/4.png)
 ~~~
 Carbohydrates (Serving) : 18g
 Fat (Serving)           : 6g
