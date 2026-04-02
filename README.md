@@ -288,9 +288,3 @@ smart-label-analytics/
 
 ---
 
-## References
-
-- Open Food Facts : [openfoodfacts.org](https://world.openfoodfacts.org)
-- WHO Europe : nutrient reference values for food labelling
-- HuggingFace : [openfoodfacts/nutrient-detection-layout](https://huggingface.co/datasets/openfoodfacts/nutrient-detection-layout)
-- HuggingFace : [openfoodfacts/nutrition-table-detection](https://huggingface.co/datasets/openfoodfacts/nutrition-table-detection)
