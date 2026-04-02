@@ -194,8 +194,6 @@ Tested via the live Streamlit app on a real US product image:
 
 ![Health Assessment](assets/assets/2_.jpeg)
 
-![Nutrient Breakdown](assets/assets/3.png)
-
 ![Extracted Values](assets/assets/4.png)
 ~~~
 Carbohydrates (Serving) : 18g
