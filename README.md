@@ -192,7 +192,7 @@ Tested via the live Streamlit app on a real US product image:
 
 ![App Upload](assets/assets/1.png)
 
-![Health Assessment](assets/assets/2_.jpeg)
+![Nutriotion Value](assets/assets/3.png)
 
 ![Extracted Values](assets/assets/4.png)
 ~~~
